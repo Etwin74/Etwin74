@@ -29,7 +29,9 @@ Reúne extracción de capítulos, importación de documentos, biblioteca, traduc
 - Funciones de traducción y lectura con controles multimedia.
 - Variantes web y Android con pruebas de componentes del sistema.
 
-**Disponibilidad:** repositorio privado. Esta ficha describe el producto sin publicar código, claves ni archivos de configuración internos. La compatibilidad con fuentes externas y la reproducción en segundo plano dependen de la variante y del dispositivo.
+[Abrir ChineRead Studio](https://lector-novelas.vercel.app/)
+
+**Disponibilidad:** web pública y repositorio privado. Esta ficha describe el producto sin publicar código, claves ni archivos de configuración internos. La compatibilidad con fuentes externas y la reproducción en segundo plano dependen de la variante y del dispositivo.
 
 ## GSFINANCE
 
@@ -48,7 +50,6 @@ Organiza socios, reuniones, aportes, préstamos y caja. La operación diaria fun
 
 | Proyecto | Enfoque | Evidencia disponible |
 |---|---|---|
-| [Electric Vehicle](https://github.com/Etwin74/topicos-electric-vehicle) | Ingeniería de datos | Procesos por capas, informe y archivo de Power BI. |
 | [Web-Tienda](https://github.com/Etwin74/Web-Tienda) | Desarrollo web comercial | Catálogo, carrito y páginas de administración. |
 | [Turismo Digital](https://github.com/Etwin74/TurismoDigitalB_E1) | Análisis y visualización | Flujo con datos sintéticos, notebooks y reportes. |
 
