@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="252" viewBox="0 0 1200 252" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Quirocenter Cieza — proyecto destacado</title>
+  <desc id="desc">Presencia digital y aplicación de citas para un negocio real. Landing pública en quirocentercieza.com y software de uso interno.</desc>
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0A1D28"/><stop offset="1" stop-color="#09111D"/></linearGradient></defs>
+  <rect x=".5" y=".5" width="1199" height="251" rx="14" fill="url(#bg)" stroke="#284351"/>
+  <path d="M1 50H1199" stroke="#284351"/>
+  <circle cx="27" cy="25" r="4" fill="#49DFD0"/>
+  <text x="43" y="30" font-family="Consolas,monospace" font-size="12" letter-spacing="1.4" fill="#91BBC7">FEATURED PROJECT</text>
+  <text x="1170" y="30" text-anchor="end" font-family="Consolas,monospace" font-size="12" letter-spacing="1.3" fill="#7ACBCF">NEGOCIO REAL / PERÚ</text>
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <text x="32" y="106" font-size="35" font-weight="650" fill="#EDFAFF">Quirocenter Cieza</text>
+    <text x="33" y="141" font-size="18" fill="#9CB8C9">Del primer contacto a la gestión diaria.</text>
+    <text x="33" y="208" font-size="16" fill="#5CE2EA">quirocentercieza.com ↗</text>
+  </g>
+  <g transform="translate(587 75)">
+    <rect width="276" height="145" rx="9" fill="#0D202C" stroke="#244B5A"/>
+    <rect x="18" y="19" width="32" height="25" rx="4" stroke="#53DFE7"/>
+    <path d="M18 26H50" stroke="#53DFE7"/><circle cx="23" cy="22.5" r="1" fill="#53DFE7"/>
+    <text x="64" y="35" font-family="Consolas,monospace" font-size="11" letter-spacing="1" fill="#75B9C8">01 / LANDING</text>
+    <text x="18" y="79" font-family="Segoe UI,Arial,sans-serif" font-size="23" fill="#E0F2F8">Presencia digital</text>
+    <text x="18" y="111" font-family="Segoe UI,Arial,sans-serif" font-size="15" fill="#95B5C5">Servicios · información · contacto</text>
+  </g>
+  <g transform="translate(886 75)">
+    <rect width="282" height="145" rx="9" fill="#0D202C" stroke="#244B5A"/>
+    <rect x="18" y="19" width="28" height="26" rx="4" stroke="#53DFE7"/>
+    <path d="M18 28H46M25 16V23M39 16V23M24 34H28M35 34H39M24 39H28" stroke="#53DFE7"/>
+    <text x="62" y="35" font-family="Consolas,monospace" font-size="11" letter-spacing="1" fill="#75B9C8">02 / APLICACIÓN</text>
+    <text x="18" y="79" font-family="Segoe UI,Arial,sans-serif" font-size="23" fill="#E0F2F8">Gestión de citas</text>
+    <text x="18" y="111" font-family="Segoe UI,Arial,sans-serif" font-size="15" fill="#95B5C5">Organización · operación diaria</text>
+  </g>
+</svg>

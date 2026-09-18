@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="126" viewBox="0 0 1200 126" fill="none" role="img" aria-labelledby="title">
+  <title id="title">Entender, especificar, construir con IA, validar e iterar</title>
+  <rect x=".5" y=".5" width="1199" height="125" rx="12" fill="#0A1520" stroke="#213E4A"/>
+  <path d="M191 63H246M421 63H476M651 63H706M881 63H936" stroke="#326375"/>
+  <path d="M240 59L246 63L240 67M470 59L476 63L470 67M700 59L706 63L700 67M930 59L936 63L930 67" stroke="#54D6E1"/>
+  <g font-family="Consolas,monospace" font-size="12" fill="#56DCE5" letter-spacing="2"><text x="33" y="43">01 / CONTEXTO</text><text x="263" y="43">02 / SPEC</text><text x="493" y="43">03 / BUILD</text><text x="723" y="43">04 / CHECK</text><text x="953" y="43">05 / LOOP</text></g>
+  <g font-family="Segoe UI,Arial,sans-serif" font-size="22" fill="#DFF1F8"><text x="33" y="82">Entender</text><text x="263" y="82">Especificar</text><text x="493" y="82">Construir con IA</text><text x="723" y="82">Validar</text><text x="953" y="82">Iterar</text></g>
+</svg>
