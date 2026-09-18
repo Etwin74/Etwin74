@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="356" viewBox="0 0 480 356" fill="none" role="img" aria-labelledby="title">
+  <title id="title">Josué Saldaña Fustamante — Desarrollo con IA y marketing digital</title>
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#07131D"/><stop offset="1" stop-color="#0A202E"/></linearGradient><pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" stroke="#5CACC1" stroke-opacity=".07"/></pattern></defs>
+  <style>.orbit{transform-origin:386px 89px;animation:rotate 48s linear infinite}@keyframes rotate{to{transform:rotate(360deg)}}@media(prefers-reduced-motion:reduce){.orbit{animation:none}}</style>
+  <rect x=".5" y=".5" width="479" height="355" rx="16" fill="url(#bg)" stroke="#284350"/>
+  <rect x="1" y="1" width="478" height="354" rx="16" fill="url(#grid)"/>
+  <g opacity=".65"><circle cx="386" cy="89" r="59" stroke="#337C8F" stroke-dasharray="2 7" stroke-width="4"/><circle class="orbit" cx="386" cy="89" r="49" stroke="#62E8F0" stroke-width="2" stroke-dasharray="95 35 45 133"/><circle cx="386" cy="89" r="35" fill="#0A1D29" stroke="#2E6E80"/><text x="386" y="99" text-anchor="middle" fill="#BCECF2" font-family="Segoe UI,Arial,sans-serif" font-size="29">JS</text></g>
+  <circle cx="30" cy="35" r="4" fill="#5FE6D7"/>
+  <text x="43" y="39" fill="#8CBACA" font-family="Consolas,monospace" font-size="12" letter-spacing="1.5">ETWIN74 / HUMAN × AI</text>
+  <g font-family="Segoe UI,Arial,sans-serif"><text x="26" y="138" font-size="64" font-weight="700" fill="#F0FAFF">JOSUÉ</text><text x="29" y="176" font-size="23" letter-spacing="1.1" fill="#D8ECF6">SALDAÑA FUSTAMANTE</text><path d="M30 202H448" stroke="#255C6B"/><text x="30" y="239" font-size="22" fill="#5DE5ED">Desarrollo con IA</text><text x="30" y="269" font-size="22" fill="#5DE5ED">Marketing digital</text><text x="30" y="320" font-size="18" fill="#AAC4D2">Ideas claras. Sistemas útiles.</text></g>
+</svg>

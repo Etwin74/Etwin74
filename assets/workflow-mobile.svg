@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="298" viewBox="0 0 480 298" fill="none" role="img" aria-labelledby="title">
+  <title id="title">Entender, especificar, construir con IA, validar e iterar</title>
+  <rect x=".5" y=".5" width="479" height="297" rx="12" fill="#0A1520" stroke="#213E4A"/>
+  <path d="M54 53V246" stroke="#2F6574"/>
+  <g fill="#0B2430" stroke="#3D8B9A"><circle cx="54" cy="45" r="17"/><circle cx="54" cy="97" r="17"/><circle cx="54" cy="149" r="17"/><circle cx="54" cy="201" r="17"/><circle cx="54" cy="253" r="17"/></g>
+  <g font-family="Consolas,monospace" font-size="13" fill="#60E3ED" text-anchor="middle"><text x="54" y="50">01</text><text x="54" y="102">02</text><text x="54" y="154">03</text><text x="54" y="206">04</text><text x="54" y="258">05</text></g>
+  <g font-family="Segoe UI,Arial,sans-serif" font-size="23" fill="#E0F3FA"><text x="94" y="53">Entender la necesidad</text><text x="94" y="105">Definir la especificación</text><text x="94" y="157">Construir con IA</text><text x="94" y="209">Validar el resultado</text><text x="94" y="261">Iterar y mejorar</text></g>
+</svg>

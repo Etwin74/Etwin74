@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Josué Saldaña Fustamante — Desarrollo con IA y marketing digital. Ideas claras. Sistemas útiles." />
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/hero-mobile.svg" />
+    <img src="./assets/hero.svg" width="100%" alt="Josué Saldaña Fustamante — Desarrollo con IA y marketing digital. Ideas claras. Sistemas útiles." />
+  </picture>
 </p>
 
 <p align="center">
@@ -35,7 +38,10 @@ Este proyecto reúne la dirección en la que quiero crecer: **presencia digital 
 
 Estoy adoptando **[Spec-Driven Development](https://github.com/github/spec-kit)**: definir lo que debe hacer el producto, dar contexto al agente y comprobar el resultado. Complemento este enfoque con conceptos de metodologías ágiles como **Scrum**.
 
-<img src="./assets/workflow.svg" width="100%" alt="Mi enfoque: entender la necesidad, definir la especificación, construir con IA, validar e iterar." />
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/workflow-mobile.svg" />
+  <img src="./assets/workflow.svg" width="100%" alt="Mi enfoque: entender la necesidad, definir la especificación, construir con IA, validar e iterar." />
+</picture>
 
 Me interesa mejorar en la parte que conecta todo el proceso: **plantear bien el problema, dirigir el trabajo con IA y evaluar si la solución cumple su propósito**.
 
