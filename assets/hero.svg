@@ -1,45 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390" fill="none" role="img" aria-labelledby="title desc">
-  <title id="title">Josué Saldaña Fustamante — Desarrollo con IA y marketing digital</title>
-  <desc id="desc">Interfaz tecnológica oscura con un núcleo circular cian animado. Ideas claras. Sistemas útiles.</desc>
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="390" gradientUnits="userSpaceOnUse"><stop stop-color="#07131D"/><stop offset=".6" stop-color="#0A101B"/><stop offset="1" stop-color="#081B29"/></linearGradient>
-    <radialGradient id="aura"><stop stop-color="#24DFF2" stop-opacity=".18"/><stop offset="1" stop-color="#24DFF2" stop-opacity="0"/></radialGradient>
-    <linearGradient id="line"><stop stop-color="#4AE4ED"/><stop offset="1" stop-color="#4AE4ED" stop-opacity="0"/></linearGradient>
-    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" stroke="#5CACC1" stroke-opacity=".065"/></pattern>
-    <filter id="glow"><feGaussianBlur stdDeviation="3"/></filter>
-  </defs>
-  <style>
-    .mono{font-family:'Consolas','Liberation Mono',monospace}.sans{font-family:'Segoe UI',Arial,sans-serif}
-    .orbit{transform-origin:971px 190px;animation:orbit 48s linear infinite}.reverse{transform-origin:971px 190px;animation:orbit 70s linear infinite reverse}
-    .pulse{animation:pulse 5s ease-in-out infinite}
-    @keyframes orbit{to{transform:rotate(360deg)}}@keyframes pulse{50%{opacity:.48}}
-    @media(prefers-reduced-motion:reduce){.orbit,.reverse,.pulse{animation:none}}
-  </style>
-  <rect x=".5" y=".5" width="1199" height="389" rx="20" fill="url(#bg)" stroke="#1E3948"/>
-  <rect x="1" y="1" width="1198" height="388" rx="20" fill="url(#grid)"/>
-  <circle cx="971" cy="190" r="222" fill="url(#aura)"/>
-  <path d="M30 65V30H65M1135 30H1170V65M30 325V360H65M1135 360H1170V325" stroke="#47DCE9" stroke-opacity=".55"/>
-  <circle cx="58" cy="51" r="4" fill="#61F1DB" class="pulse"/>
-  <text x="73" y="56" fill="#80A5B5" font-size="12" letter-spacing="2.4" class="mono">ETWIN74 / PERSONAL INTERFACE</text>
-  <text x="1143" y="56" fill="#80A5B5" font-size="11" text-anchor="end" letter-spacing="1.5" class="mono">HUMAN × AI</text>
-  <text x="54" y="155" fill="#EFFAFF" font-size="76" font-weight="700" letter-spacing="-2" class="sans">JOSUÉ</text>
-  <text x="58" y="195" fill="#DAEDF4" font-size="29" letter-spacing="3.3" class="sans">SALDAÑA FUSTAMANTE</text>
-  <path d="M58 222H610" stroke="url(#line)"/>
-  <text x="58" y="257" fill="#4CE0EC" font-size="21" class="sans">Desarrollo con IA · Marketing digital</text>
-  <text x="58" y="289" fill="#9BB6C6" font-size="19" class="sans">Ideas claras. Sistemas útiles.</text>
-  <g class="mono" font-size="11" letter-spacing="1.2">
-    <rect x="58" y="326" width="173" height="28" rx="5" fill="#0C252E" stroke="#22505B"/>
-    <text x="74" y="344" fill="#88EBEE">CODEX AT THE CORE</text>
-    <text x="253" y="344" fill="#87A8B8">SPEC → BUILD → ITERATE</text>
-  </g>
-  <g stroke="#3ACEDD" stroke-opacity=".20"><path d="M693 146H749L777 174H812M693 248H757L789 216H812M971 38V54M971 326V342M803 190H819M1123 190H1139"/><circle cx="689" cy="146" r="3"/><circle cx="689" cy="248" r="3"/></g>
-  <circle cx="971" cy="190" r="142" stroke="#256577" stroke-opacity=".45"/>
-  <circle cx="971" cy="190" r="131" stroke="#3897A8" stroke-opacity=".65" stroke-width="5" stroke-dasharray="1 12"/>
-  <g class="orbit"><circle cx="971" cy="190" r="119" stroke="#54EAF4" stroke-width="2" stroke-dasharray="185 39 18 39 145 322"/><circle cx="1090" cy="190" r="4" fill="#98FFFF"/></g>
-  <g class="reverse"><circle cx="971" cy="190" r="104" stroke="#277587" stroke-width="9" stroke-dasharray="92 38 11 38 92 38 11 333"/><circle cx="971" cy="190" r="92" stroke="#73E8F0" stroke-opacity=".6" stroke-dasharray="140 65 55 318"/></g>
-  <circle cx="971" cy="190" r="76" fill="#071924" stroke="#2FC5D6" stroke-opacity=".45"/>
-  <circle cx="971" cy="190" r="77" stroke="#38CFE6" filter="url(#glow)" stroke-opacity=".4"/>
-  <path d="M943 151L924 162V184M999 151L1018 162V184M924 201V222L943 233M1018 201V222L999 233" stroke="#63DDE6" stroke-opacity=".7"/>
-  <text x="971" y="209" fill="#DDFDFF" font-size="51" letter-spacing="-3" font-weight="600" text-anchor="middle" class="sans">JS</text>
-  <text x="971" y="300" fill="#76BFCD" font-size="10" letter-spacing="3" text-anchor="middle" class="mono">BUILDING WITH AI</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="372" viewBox="0 0 960 372" fill="none" role="img" aria-labelledby="title">
+<title id="title">Josué Edwin Saldaña Fustamante. Desarrollador de software. Estudiante de Ingeniería de Sistemas en la Universidad Nacional de Cajamarca.</title>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#06131D"/><stop offset=".6" stop-color="#09121D"/><stop offset="1" stop-color="#0A202E"/></linearGradient><radialGradient id="aura"><stop stop-color="#2CDCE9" stop-opacity=".16"/><stop offset="1" stop-color="#2CDCE9" stop-opacity="0"/></radialGradient><pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" stroke="#68BDCE" stroke-opacity=".055"/></pattern><linearGradient id="fade"><stop stop-color="#57E8EF"/><stop offset="1" stop-color="#57E8EF" stop-opacity="0"/></linearGradient></defs>
+<style>text{font-family:'Segoe UI',Arial,sans-serif}.mono{font-family:Consolas,'Liberation Mono',monospace}.rotate{animation:spin 18s linear infinite;transform-box:fill-box;transform-origin:center}.reverse{animation:spin 29s linear infinite reverse;transform-box:fill-box;transform-origin:center}.pulse{animation:pulse 2.1s ease-in-out infinite}.flow{stroke-dasharray:6 13;animation:flow 2.8s linear infinite}.scan{animation:scan 3.3s ease-in-out infinite}.rise{animation:rise 2.4s ease-in-out infinite;transform-box:fill-box;transform-origin:bottom}.delay{animation-delay:-1.8s}.delay2{animation-delay:-3s}@keyframes spin{to{transform:rotate(360deg)}}@keyframes pulse{50%{opacity:.35}}@keyframes flow{to{stroke-dashoffset:-95}}@keyframes scan{50%{transform:translateY(83px);opacity:.3}}@keyframes rise{50%{transform:scaleY(.5)}}@media(prefers-reduced-motion:reduce){.rotate,.reverse,.pulse,.flow,.scan,.rise{animation:none}}</style>
+<rect x="0.5" y="0.5" width="959" height="371" rx="10" fill="url(#bg)" stroke="#254250"/><rect x="1" y="1" width="958" height="370" rx="10" fill="url(#grid)"/>
+<path d="M18 48V18H48M912 18H942V48M18 324V354H48M912 354H942V324" stroke="#3CB4C7" stroke-opacity=".55"/>
+<circle cx="34" cy="37" r="3" fill="#74F0E3" class="pulse"/><text x="46" y="41" font-size="11" fill="#6AB8C8" class="mono" letter-spacing="1.7" >ETWIN74 / PERSONAL INTERFACE</text>
+<text x="926" y="41" font-size="11" fill="#688B9E" class="mono" letter-spacing="1.7" text-anchor="end">01</text>
+<g transform="translate(781 187)"><circle r="167" fill="url(#aura)"/><circle r="132" stroke="#246071"/><circle r="123" stroke="#429CAF" stroke-width="4" stroke-dasharray="1 10"/><g class="rotate"><circle r="110" stroke="#6DF0F5" stroke-width="2" stroke-dasharray="171.6 34 12 55"/><circle cx="110" cy="0" r="3" fill="#BAFFFF"/></g><circle class="reverse" r="97" stroke="#215F70" stroke-width="7" stroke-dasharray="90 35 20 40"/><circle r="83" fill="#071A25" stroke="#429AA9"/><path d="M-24 -27L-37 -19V0M24 -27L37 -19V0M-37 13V29L-24 37M37 13V29L24 37" stroke="#4DB9CC"/><text x="0" y="17" font-size="45" fill="#EDFCFF" text-anchor="middle" font-weight="600">JS</text></g><path d="M565 153H614L643 183M565 220H614L643 191" stroke="#25596B"/><path class="flow" d="M565 153H614L643 183" stroke="#61E3EC"/><text x="36" y="144" font-size="81" fill="#F1FBFF" font-weight="750" letter-spacing="-2">JOSUÉ</text><text x="40" y="184" font-size="25" fill="#DAEEF8" letter-spacing="1.5">EDWIN SALDAÑA FUSTAMANTE</text><path d="M40 211H530" stroke="url(#fade)"/><text x="40" y="247" font-size="24" fill="#5FE5ED" >Desarrollador de software</text><text x="40" y="282" font-size="21" fill="#ABC8D7" >Estudiante de Ingeniería de Sistemas · UNC</text><text x="40" y="331" font-size="12" fill="#6AB8C8" class="mono" letter-spacing="1.7" >WEB · MÓVIL · ESCRITORIO</text><text x="781" y="343" font-size="10" fill="#82CBD6" class="mono" letter-spacing="1.7" text-anchor="middle">PERFIL PROFESIONAL</text></svg>
